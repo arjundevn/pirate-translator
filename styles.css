@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+html {
+    /* background-image: linear-gradient(to bottom right,#8B5CF6, #DDD6FE); */
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+
+}
+
+header {
+    padding: 1rem;  
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+}
+
+p {
+    font-size: large;
+}
+
+button {
+    height: 50px;
+    width: 100px;
+    /* background-color: #FBBF24; */
+}
+
+textarea {
+    border-radius: 10px;
+    padding: 2rem;
+}
